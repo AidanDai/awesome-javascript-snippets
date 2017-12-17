@@ -1,0 +1,27 @@
+{
+  "name": "awesome-javascript-snippets",
+  "version": "0.0.1",
+  "description": "collect awesome javascript snippets",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AidanDai/awesome-javascript-snippets.git"
+  },
+  "keywords": [
+    "javascript",
+    "snippets"
+  ],
+  "author": "AidanDai aidandai@126.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AidanDai/awesome-javascript-snippets/issues"
+  },
+  "homepage": "https://github.com/AidanDai/awesome-javascript-snippets#readme"
+}
